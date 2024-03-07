@@ -69,6 +69,34 @@ aside{
     margin-bottom: 20px;
 }
 
+body.umacoluna div#conteudo{
+    width: 737px;
+    height: 100%;
+    background: #ebe7dd;
+    margin: 0 15em;
+    float: none;
+}
+
+body.umacoluna section#capa{
+    width: 737px;
+    height: 350px;
+}
+
+body.umacoluna section#capa img{
+    width: 737px;
+    height: 350px;
+    position: absolute;
+}
+
+body.umacoluna section#postagem h4{
+    background: #cdc8b1;
+    padding: 5px 27px;
+}
+
+body.umacoluna section#postagem p{
+    padding: 10px 27px;
+}
+
 section#horarios{
     padding: 0;
 }
